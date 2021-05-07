@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/CloudDevopsEngineer02/NodeJS#readme",
   "dependencies": {
-    "underscore": "^1.9.1"
+    "underscore": "^1.12.1"
   }
 }
